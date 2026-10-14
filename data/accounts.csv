@@ -1,0 +1,4 @@
+account_number,client,balance,operation,amount
+ACC-1001,Petrenko,1000.0,deposit,500.0
+ACC-1002,Koval,2000.0,withdraw,500.0
+ACC-1003,Melnyk,100.0,withdraw,500.0
